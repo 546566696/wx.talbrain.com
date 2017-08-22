@@ -1,0 +1,25 @@
+
+body {
+    background: url('../images/login_background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-color:#333;
+    font-family: 'microsoft yahei' ,Arial,sans-serif;
+}
+
+/* bootstrap 3 helpers */
+
+header {
+    background-color: #fff;
+    overflow: hidden;
+}
+
+form{
+    background-color: #fff;
+}
+
+.form-control{
+    height: 42px;
+}
